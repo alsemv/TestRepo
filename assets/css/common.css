@@ -1,0 +1,10 @@
+body{
+    background: #fff;
+    font-family: "Segoe UI Symbol";
+    font-size: 20px;
+}
+
+.container{
+    width: 755px;
+    margin: 0 auto;
+}

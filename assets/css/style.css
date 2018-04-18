@@ -1,0 +1,9 @@
+.block1{
+    width: 300px;
+    height: 300px;
+    background: lime;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+
+}
